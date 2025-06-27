@@ -1,6 +1,6 @@
 # ASP.NET Core MVC Blog Site (With Admin Panel) / ASP.NET Core MVC Blog Sitesi (Admin Panelli)
 
-## 📌 Project Description / Proje Açıklaması
+##  Project Description / Proje Açıklaması
 
 This is a simple blog website developed using **ASP.NET Core MVC**.  
 The project contains a **solution file (.sln)** at the root directory and the main project files inside the `MVCBlogSitesi` folder.
@@ -10,7 +10,7 @@ Kök dizinde bir **çözüm dosyası (.sln)** ve proje kaynak kodları `MVCBlogS
 
 ---
 
-## ✨ Features / Özellikler
+##  Features / Özellikler
 
 - Add, edit, and delete blog posts  
 - Manage categories  
@@ -26,7 +26,7 @@ Kök dizinde bir **çözüm dosyası (.sln)** ve proje kaynak kodları `MVCBlogS
 
 ---
 
-## 🛠️ Technologies Used / Kullanılan Teknolojiler
+##  Technologies Used / Kullanılan Teknolojiler
 
 - ASP.NET Core MVC  
 - Entity Framework Core  
@@ -40,7 +40,7 @@ Kök dizinde bir **çözüm dosyası (.sln)** ve proje kaynak kodları `MVCBlogS
 
 ---
 
-## 🚀 Installation / Kurulum
+##  Installation / Kurulum
 
 1. Clone or download the project to your local machine.  
 2. Open the solution file (`MVCBlogSitesi.sln`) with Visual Studio.  
