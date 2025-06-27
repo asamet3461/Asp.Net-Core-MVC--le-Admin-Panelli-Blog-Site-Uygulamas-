@@ -1,0 +1,14 @@
+﻿@model Post
+
+<div class="col-lg-6">
+    <!-- Blog post-->
+    <div class="card mb-4">
+        <a href="/Posts/Detail/@Model.Id"><img class="card-img-top" src="/Img/@Model.Image" alt="@Model.Name" /></a>
+        <div class="card-body">
+            <div class="small text-muted">@Model.CreateDate</div>
+            <h2 class="card-title h4">@Model.Name</h2>
+            <p class="card-text">@Model.Description</p>
+            <a class="btn btn-primary" href="/Posts/Detail/@Model.Id">Devamını Oku →</a>
+        </div>
+    </div>
+</div>
